@@ -37,4 +37,9 @@ class NotificationController extends Controller
             abort(403);
         }
     }
+
+    public function clear()
+    {
+        
+    }
 }
